@@ -1,4 +1,4 @@
 # Ck-demo-1
-This is my first Git Repository.
+This is my Repository.
 <br>
 Author- Chandrakant subheswar subudhi
